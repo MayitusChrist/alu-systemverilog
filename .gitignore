@@ -1,0 +1,18 @@
+# Salidas de VCS
+simv
+simv.daidir/
+csrc/
+AN.DB/
+64/
+ucli.key
+vc_hdrs.h
+*.log
+
+# Ondas
+*.fsdb
+*.vcd
+
+# Verdi
+verdiLog/
+novas*
+verdi_config_file
